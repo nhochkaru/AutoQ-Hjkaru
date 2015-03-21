@@ -428,6 +428,8 @@ namespace RitoBot
             this.MaxBotsInput.Name = "MaxBotsInput";
             this.MaxBotsInput.Size = new System.Drawing.Size(331, 20);
             this.MaxBotsInput.TabIndex = 19;
+            this.MaxBotsInput.Text = "1";
+            this.MaxBotsInput.Visible = false;
             // 
             // maxBotsLabel
             // 
@@ -438,6 +440,7 @@ namespace RitoBot
             this.maxBotsLabel.Size = new System.Drawing.Size(88, 13);
             this.maxBotsLabel.TabIndex = 18;
             this.maxBotsLabel.Text = "Max bots running";
+            this.maxBotsLabel.Visible = false;
             // 
             // DefaultQueueInput
             // 

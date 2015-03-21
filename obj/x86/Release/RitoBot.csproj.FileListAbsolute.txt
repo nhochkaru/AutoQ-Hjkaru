@@ -34,3 +34,11 @@ E:\Game\New folder\Volibot-Garena-master\obj\x86\Release\RitoBot.frm_MainWindow.
 E:\Game\New folder\Volibot-Garena-master\obj\x86\Release\RitoBot.Properties.Resources.resources
 E:\Game\New folder\Volibot-Garena-master\obj\x86\Release\RitoBot.csproj.GenerateResource.Cache
 E:\Game\New folder\Volibot-Garena-master\obj\x86\Release\RitoBot.csprojResolveAssemblyReference.cache
+E:\Game\New folder\Volibot-Garena-master\AutoQ-Hjkaru\bin\Release\RitoBot.exe.config
+E:\Game\New folder\Volibot-Garena-master\AutoQ-Hjkaru\obj\x86\Release\RitoBot.exe
+E:\Game\New folder\Volibot-Garena-master\AutoQ-Hjkaru\obj\x86\Release\RitoBot.pdb
+E:\Game\New folder\Volibot-Garena-master\AutoQ-Hjkaru\bin\Release\RitoBot.exe
+E:\Game\New folder\Volibot-Garena-master\AutoQ-Hjkaru\bin\Release\RitoBot.pdb
+E:\Game\New folder\Volibot-Garena-master\AutoQ-Hjkaru\obj\x86\Release\RitoBot.frm_MainWindow.resources
+E:\Game\New folder\Volibot-Garena-master\AutoQ-Hjkaru\obj\x86\Release\RitoBot.Properties.Resources.resources
+E:\Game\New folder\Volibot-Garena-master\AutoQ-Hjkaru\obj\x86\Release\RitoBot.csproj.GenerateResource.Cache
